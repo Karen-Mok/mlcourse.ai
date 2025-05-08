@@ -1,3 +1,6 @@
+#学习记录
+2025/5/5：学习topic1、3
+
 <div align="center">
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/main/img/ods_stickers.jpg)
